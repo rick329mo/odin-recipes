@@ -1,7 +1,14 @@
 body {
     background-color: cornsilk;
+    text-align: center;
+    
 }
 
 h1 {
     color: cornflowerblue;
+    background-color:azure;
+}
+
+ul {
+    list-style-position: inside;
 }
