@@ -12,6 +12,7 @@ h1 {
 
 ul {
     list-style-position: inside;
+    padding-left: 0px;
 }
 
 img {
@@ -26,4 +27,13 @@ h2 {
 h4 {
     font-weight: bolder;
     font-style: italic;
+}
+
+.ingredients {
+    border: solid white 4px;
+    padding: 10px;
+    margin: auto;
+    width: 500px;
+    height: fit-content;
+    
 }
